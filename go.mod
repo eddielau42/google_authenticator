@@ -1,4 +1,4 @@
-module google_authenticator
+module github.com/eddielau42/google_authenticator
 
 go 1.20
 
